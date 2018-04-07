@@ -10,3 +10,4 @@ Topics covered:
 
 #### References:
 - [Programming blockchain Gitbook](https://programmingblockchain.gitbooks.io/programmingblockchain/)
+- [Secp256k1](https://en.bitcoin.it/wiki/Secp256k1)
